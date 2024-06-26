@@ -1,1624 +1,1624 @@
 [[DACE]]
 arch = "aarch64"
-git-tree-sha1 = "ac8b18004caafad5f07a13ff4b44a153c4baca34"
+git-tree-sha1 = "246a7bcd037282370284b7c4dd3b1fd6dd8d9073"
 julia_version = "1.10.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "d3a67eff03ddf3689cdff4991691be3bbb524d348ef0729264456b34536f5e36"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "c085fffafe9cd2ca9c058e32bb68696e5839acc92d2cb09fc36162cd73b45b49"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
-git-tree-sha1 = "3d2e548f75c794360e00fc636a342662d890d9c7"
+git-tree-sha1 = "f96cfdca1dbb78e694575cf1707396bfa7239404"
 julia_version = "1.11.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "84be504026cfec82ab798362694c3ae9f6ef606518580506d41d091ac8d07685"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "fbeb0909cafceb50d64134c0a357fcce17df832d92ae19c4c437a96b6ee03450"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
-git-tree-sha1 = "1112f2c376e1c08c0e23a54ad0a61f45ff29a0b7"
+git-tree-sha1 = "522aaff396e6e20b1796b20bad9c2677dfa3b46a"
 julia_version = "1.12.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "5e9a1cdff1de49c44b80404067ed5d25e70515c4c4a02e5d732a399171ebe381"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "9e4c62fb8b529652983663dd8da2ade134915d77a28466e91acfdc2cd61fca98"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
-git-tree-sha1 = "0214607532de43618e24746bc2a67c07257410f5"
+git-tree-sha1 = "8a8ec162c7faebe939f8b4c74ad1b0180a15e13f"
 julia_version = "1.7.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "a3851775315c516129bc6990fc6b946b2b64787ba5b86120067437d692b6ccfe"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "213622fc6aaa267adc2b5b9c5387b30ab76939f02c59a2d77a33e6d9877f14e0"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
-git-tree-sha1 = "93b93dbdcdf8e8cf47e754600426518bbf7a5f02"
+git-tree-sha1 = "95158dea97d1339d0cb43a38fdc2411a55f6fc30"
 julia_version = "1.8.2"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "86511688f7b3ed87a994cce1c24e2218866be9ef98edd694dc8b53e255db0f60"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "86d6f0b474d2b669b1792665f7fabe5343e1141fb1f4b910e4c6242f8c2fc63b"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "aarch64"
-git-tree-sha1 = "5ce5bdf6f5aa71f4d0c65a6599dc7ee81cb6ec53"
+git-tree-sha1 = "6b8a1ec923742e307c7ae58a55e7a0c57d9c528a"
 julia_version = "1.9.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "3813e03523c45a1492c12b0f298975fb1c91f3ac78d678a1439c39633b4b9960"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "10d52eaff0fa02e958a7fe5d9eeebf84fab0c902da61e2aeb24cd326bd06776e"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0af124ccd540886a5fdb8b4ad770403aeb57d908"
+git-tree-sha1 = "3e079072dadeda1c759a2d3d6a1a663ff7e3934c"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "d9418b34117ada29adde11d8fa1380988b723d459189b746142039e41622dfcd"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "648e310d204217c69dd9026347b4f9a91c38f9855fbe88a9a99f64097a69c57f"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dac97a115d1654ee6769bb90431a4fc252044b1d"
+git-tree-sha1 = "623bf186522964bcbf204ddcabd5ec3d73747e55"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "dc0272b47ac38517f5e23c602518c03a4b4fa6d781bf7c4f2efe2bc019af4621"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "585d2249fc438dcd5e4991bbfeb44fca2af98b476e8d55781462a2b93a7d0778"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "418255a40d0f1d7e7bd7ec70627a7bf1a93de703"
+git-tree-sha1 = "5edcfb8f612ef4fbae40aa1d61d065a9e68d7c5e"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "513d24c173972cc5d0f3ce85b5e5c3a536013be3a2f696788672a02e4c39b547"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "b7e6d4af3fc6ed4d5df9ab7a260f02ea0060084307d91416693230ba2ea43868"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f0b54ac7ecac87296dd60c921d8c2c7852e6855b"
+git-tree-sha1 = "8fa3b14456452c3ab2b88cadf0f5f0771666515f"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "4d713c8769020e8f6ec0e5cd4f3c438f3f1365b2512a42fcb90b640a30f9bd4c"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "789ee18e52e296025a65071e37cf73a53544dd15eb0cde91259f6df55d148a93"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8a04168b3bde5d3a6da912fbcc16375e07366715"
+git-tree-sha1 = "68c0183b3f2fbf4c7dceac1cedf33b532460505f"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "d2dfb2568299a7d36d11b682d699315bf571fa04de748dbb34c835b2adf0e626"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "e3a8fa70423b57ff3b5880da7cff6df1848e78a8612ba62763ff4f61f9201d86"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5a1ce5cf6a660f9c87593d7f15fbb8122f5f438d"
+git-tree-sha1 = "c7d7059e72194e021d7aeb0ee72fec197b6fda81"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "cebec1d95036ec2e9159a306f37b89364a13cfe709ca59c98cfcfb24561a11b8"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "dd5047264db9225269bac5e8e79fdc74290cad4d2ffe3e5d1a8c9f845dc91e71"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5799e96fb6e2b5acf81424215c38e6e7d6a331ae"
+git-tree-sha1 = "e22b639ebfc86791b34efe6bdeaaeef7802d21e6"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "a49149cacb93d02116e90b5be6b456a60661f943031802389c5711551a6531b0"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "c939ec4e0454387bface81d4c5dbbe82ed526bd780f03fa9e957d12167bb9fbf"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7f81d567020e5a46265fc6e3bb8b01f02b66f3e5"
+git-tree-sha1 = "c664eb82831914919612a8fde1dae40d0f16825b"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "4f39e36e21fe9d1af24b058769a96546daa681b4079f4b55087199451fb9b975"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "bd9d41174454be9eab9af74e1834c76f59b2f0a4686966d60af8be8954a24121"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "592a14758fcf8d1ee64eec12933f1756ec650064"
+git-tree-sha1 = "c757d540e56880715fa7a6a153da2b5eb90bca8a"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "8c8e754b4e05a6c7967dc9f80dd1d935b5c0aea47b47823d081f75974c7ba8e4"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "d2d61a7a7fac8f73cfc22e15ae387e93a291ff3056bee891769b935251ec966d"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f8f6f546d7c2e49699f52874143300a953b21c33"
+git-tree-sha1 = "3047932f3f5b943605d2e5fcbd132a07bdd183d8"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "8dc1c8b3fb4268a497c01a01ff03ed887566880b4af352faab3e6433428bc718"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "02682a6b6e0edc62d450b180c031cb35f9f5b2556bfd61cab65b53cdb3e38b3d"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f37da7886afe7ada37f79f9a55c902335c7a5eb"
+git-tree-sha1 = "8d5eedabdb21f8f2f8b1a8855092858bc2535e7c"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "2d573ff9e132b850dc1b5b73dec97fd0aea34daea6c257045f188e5282ea6909"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "81a7956e46a26671da50f2f41d91f60aa5b44434c435ff5b478476bd5e7d5ca5"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4005d00ce8da1e1bb26d21ca19461e8b629fe081"
+git-tree-sha1 = "6011969908c235685d7f2138c727766364ac1bd6"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "01292225d8f77f3d7990c096e3328d6dddaf62f0ca0061a552a42956a784303a"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "d4a72a683c9639303348c3349394c888d7715ea40e929c3129958f6ed6cf1dbd"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9f89de44545405c56e7b330c02ef522facf97aa3"
+git-tree-sha1 = "bdb44ffc4ed9b8044255bb74e068ca46a39e8e20"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "c7445de737a1c0c672c044487e51acff70eda2f4b2b5288bb369f98523458800"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "e950b6ae5468eaccb33f07781c2ac26aa0a2f418961403dc433e7fc6bf1d9b8d"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9e5f610907bd4730b302bd43725e6400c05545a"
+git-tree-sha1 = "583d4d1d24c1c4c43a37d53937aa8d0adfe5876b"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "be280f8569c440bf6b0a16aad5dd4504acfedfe72999bcdd20304c80fa8b50b0"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "271173717f647714e5d96d79760f6f756924414ec81277914a6bbbf9aaafb1a7"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9c5b4febf766fa76184694c1fe61c85024476e97"
+git-tree-sha1 = "bd3ccac580a027a166ff479cd39b471adb9613ac"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "8a3c4c65177437802a74f8c8ad97d328dc096e94348754177dabb8bbef557e4f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "85aecd2d073bbd36f5ada428aa01a3c3883a015220a824cdeb73ea6379c2ff78"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "068425c52953d26fe939ffdc4bd1e43a966bdfe9"
+git-tree-sha1 = "b8bbf12bee63c65cb651234cf7cb5cebe6f208a0"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "37203a9da51136dd34db72256dc2fae8a2402ca9f9a9dbdf77dcd51daffc08d9"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "8b223354cae7abcbb31d2b3e7d41913bb8c55f02903197461d520ac6fb2c4fcd"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "012d1f7d229d3a82230ee1e2e5136150952818ef"
+git-tree-sha1 = "8e82d78d7fc5b9f23b6a546cad4f2abf42c8345c"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "b4df595e771e0c072e73a8437e6de6b2ab70895e15585a457777ab7fcb2fd966"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "b7fc6b3b7f2081cf1b8a9f7c9e30e0daf4b6e51dd1e389591d93f02fa8aa6c43"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d3a1a2f79829fcce7aaa70f671a65c717ab3b957"
+git-tree-sha1 = "799a994ddb05167d58331b9dd1d3a9370d75d586"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "ecb1a29b679239f5a85f2614d9bfb9bb528a5ce190ec8348fa5ddfb7c99df6ea"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "fadae151d39db0d062da31270bc66a1b44dadcca4decf6e00cfa63555acf4b6a"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "025959fb61b9ec1b89bf5bd3dc0b02327b174a14"
+git-tree-sha1 = "fd02e5e7779f96326cd259c37cf8d1963f4f5e8f"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "664f62807be83589ba1841dffebb0e09641f9ed821c16025b0cf588e42be70f2"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "e9d92b4d2da451d54b02531989d8d31b0c992e03bce76b0b69d680fd6b0768e6"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ffaa9ce197bbde3d5e3a103cd62db505763471ae"
+git-tree-sha1 = "d6711a013d90ad3e18ea11c30aa6cce65d172e36"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "22b789d7772d177e26fc95ee5a72fcaeebdfc95eb0041ae991dace5cfb1cc33f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "b8e7f27f0716a028abf5c2d92e12daa199744f77762333966a1bc47936118f14"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1cb66122f270e12ad556e3d0bc3f8a617c7e4d35"
+git-tree-sha1 = "5d782a96fc51f8adaf3f920bb0026b2b8b572f8c"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "d40d52a2138977f9e2e83db3d5525e075cec59e49f4c1676ba025e09e821ce42"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "48d71d2c7c5f844249587946dac6f86b1a66e3c90e6ad64e4be4fa07263ee4cb"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29184b7a4a980917bf3aa6a8eb55fe7ba4984848"
+git-tree-sha1 = "0662b64ca4e6b06bd95b05f9ad8961a6f51e3587"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "1ab7ad88a72b89bca875ed905253ef068e5a198b96dc1e027948885ece939431"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "bce0608f80e784f09eca6ae897502cb08ffa68584f741e339fcd9037464f3e67"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8bb1008c6eddc998a5d612e44c87d3bff9da762e"
+git-tree-sha1 = "484c218734f6991faca4f45b9a251a08aedeba12"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "a00aeac6a36d06abab298b3f60d3566e86619903ce7e80f82d89985a857226a4"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "fc2f8684ebbd5f7ce1d82fe34df5a2faee19507efb433975cd1781f6e6efe3e2"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ccf225bc90147f50f79af09225ddcce7b734fec"
+git-tree-sha1 = "4351d94b0b19456519baa6ec64380cdf0a5328ff"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "a9eba590e6b5c5ec17dedfd97523cd1a0801c9e42c28c02f312591eff99eb07c"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "34a3bc2a53970ed9fba370b5f1d1d4465931b3fff4d1384fe8cd121bcc9f60b0"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a34bf82a7088f510c27d4060d93bc626b8f46f23"
+git-tree-sha1 = "a4042429b1194a46f3c37f6e794ac8f0a1fcbf87"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "0197d574cbb470cd33a781854eee24247cadde6449c18bf41465eee1563dd701"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "42778a132fa8d96a87c55fb990c9f4919e9237929864d7b5b656e2a37457123a"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9274cdda9cd935f36b4dcbe4a8e1f3131fd01bd"
+git-tree-sha1 = "5ff63d3a610f93cdbef957617b7a421dedaf7858"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "ac3d26ae89c1739d5fde61c9099d1e74162780dcc5f3c2348295adca5e1d3ed2"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "eee1e4b6fa7492a7e91bfe1cd02854033de7c35a76112b340451296bea2c0a23"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cf7ab10c1cc8cdb18e1c2560ef8f6832c512deee"
+git-tree-sha1 = "56e17197668a292181588b96e26c864268c60896"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "7f2b6d307d015a525355ffeaf165ddb13fa39eb571fb0997e319184e9a573647"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "7ca6b78e1b3d966a013f6fca5f0d0c2a0c370439747b5462f814fdf8e077004a"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca44d539fc93ce765564cc99cdd3f0766e5ea9d2"
+git-tree-sha1 = "67e5d0c6fb80907d7e1019993e70214bf091c5d4"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "a74150bc90ad60f05b61eb64a91e52e24707771e444bf8171a8a0d1ec7c836d6"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "6bf1d6358cea87b664c6f3569165795e887335bcbba7fe4b0ad55380e5bf6e85"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2d7aa6066e2e7ec9e1b6197dd5a2d8c54370d3cd"
+git-tree-sha1 = "2113ca98f3833872c6e9ee8b147d3e6e21925012"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "f099656a586d9979a72dbb4a10caa29876f69efa438ec18b006c8c40d121517f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "820dc4ffb0cfe3e1780b8583046709e77af917478e925fe17e02a03bcd5eebb1"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "71fc2e03d2f84c44c0914bd0aa8965e6f24796db"
+git-tree-sha1 = "4f74ecabaf9bf528c23ee26e787b2127da9eabc4"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "d08d51ab4d2cbfcb5b87d6da53aa8fa1cfb320a569c62da1685789210fc92731"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "87eacbc1ee9ee365ea0bc31794a786f31b94b946acc8e62dfcb017bef6688de1"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "313c903a4e2066a75b852ab14c1e265f85a601e7"
+git-tree-sha1 = "16e74fa73e7ec253fe3fe15fff1ca95f96f7866f"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "647052862922a3344e7339906f3bd09c1ba72aeb783d8f8e9eefd1aad8fe8a9b"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "5352fd96b130666bb595f9789b039c8f508a2aff3320c9be57ae97c9fa335bff"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fa924a5c1442a5412debc31b65785a63bd99419a"
+git-tree-sha1 = "6ee48b6c93b859b0fc1fe8be6c7ffbf27129bec8"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "90644605ef3de5df7e758ceb76011dc4c63f4b6046a39cd999673e67b4a2c876"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "6b358d7fcddff2a40e682e4188817983dc4df2d6007c15a95898353751234e16"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bfd9b5179951db8fcc574166c0ab09db4643bd8a"
+git-tree-sha1 = "a548f986bf6a8d3513a8f6303d7bf5f729ab61b5"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "4c1a023e7855d36f4697c7d09c8dacb0607b1973d1c3c9e9dadcc05728518cdd"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "2842ac99c16362d9b82e4057b3d09332220d637286d72fa9daa03d966a5b632f"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "da49ba2588742f3eacf56e417dfa6d09707f0410"
+git-tree-sha1 = "93f93ae92f49f396dbba965aafcc051c96843324"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "5a3f8355406329539927d197e7959a8e3b1183a85343d266d81adb50111704a1"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv6l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "b17abab6644bdbede95cfcdfe4c269ddeff4ec5d5778ba60910a26a4b0ed0d63"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv6l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4378cf1fc97e1a32ee8896593079aeeee7b92e07"
+git-tree-sha1 = "fb4facbca6cf6e45281065d3fffddda5a2ad0fc3"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "6a595cfaf01bf7d135add27de14c5bbdbbd8a16e40774ba5840c9c4fedc16a87"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "32d3ce592f167a4af0dd2d8ea251848dbeeb34e57f0c0e22ea81687d7201875b"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "91deedf3d72eba23a79bc5d7b89e5ea24f81ebb9"
+git-tree-sha1 = "3bbf6b83d1e79fa152cecedf43c0dcfab8993297"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "7f9c99084d7d1c559993225cb869e6123a37e693760e3b23828208cebe68866e"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv6l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "81e8d68058078482430b3a3d68ada7a03d929258ad920020ae380b88ac92ae97"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv6l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "994906fc1d6830dad591073c2cdcc1177b0017f7"
+git-tree-sha1 = "5aee9e99c57d8f4fd4cc19e01c68d097f4e1395d"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "0260f95af103636d5cc1069d71178e8bfa595ea46cebe6c23a5ef920e94f7564"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "251cdf2523dc2af6ce76b348fb371a9d21e4b87774d6dc492e06f24549e41734"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dac1cfb8e3dcae82978b1a1a194e1ca894ff5ac3"
+git-tree-sha1 = "0a93404eb7d6c40d86f6ff966209329a97fddafc"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "d6e331e125e48bf6b6c005d3fe26dd252abf12e7994aec7678976c11a3bbc223"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "40326b014087a89e586dd150aa3536e3fbbad8de479e4c093149f8a371f576a3"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d7ce44c6c1eef9e55e9c7f4d64c0e25da202d0d2"
+git-tree-sha1 = "28b3fbfeb2af11b730bef7bb621c4db93ef35877"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "23a8eddec07b31f1dae1353ff2d87d1a10f37a57824228bde5ac40d4c0a4fd02"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "4fb3001151cc69f0082458c9eafabdb43648fa7d25d09d364285c4256002363b"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "170d427b36b08abaee3dcc80038cafcd43af3e3c"
+git-tree-sha1 = "00e7b7f7d3c50ce3b1edae136a9f72280fa36b12"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "b0d276d82d6e8675cb11877ec9d89a6e3e5efc75e37012fed363223c2416159e"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "2342fbbba58272ecb5f9cf163fc35b902dae36081ccd5d07767285e54b6e3b05"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "67683fbf7a59ad4aef3c988090c2aa4b204961e9"
+git-tree-sha1 = "b13d19a0a38e4af97c8a1569fa1e31c95eb6590e"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "48a19160e0f650dea4f96770725708bc622525ee26c839d781ca733ba4fb5d80"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "c4c1eb9e6a20d95b6629149972d6abf07291c55488da249b96a78067bdd4c93b"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b8585d17c8d1188cdbbba4e3497b8fae022bdb41"
+git-tree-sha1 = "ac04381e877b0b79bd9625efb04200b22f562142"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "cac46cb2594cb02bbd0fd162eeed5034f0af594771ec7e99807a647844f4e3df"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "9bcc6b1e4310353c7f82d5e9eea4ae254383db2637ce600659164d954ca7a762"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eb8019ac2d8f9787793735514e84698deb58ca04"
+git-tree-sha1 = "4867488249c400fe1029933a80c3d21ec5b7bd24"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "b2948979f01a5360d3eeb1cd5e8b49e878489294949014df9e199d5a45e00194"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "ab482f33903a8d563b2287d048022be4b5b6ac8550ef46fb05fc1211d667b4f2"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6f3568d6906c27142d0a63c35052b3df60db7a12"
+git-tree-sha1 = "ba76a5a4e422e5e6f320603f88c385cf6e96a1d3"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "b20468c8f6baddf165de599af1c66208b9a26a10852e36cb84dd366d23f5c3a4"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "98acb5b02ac4877ba91a1a47d010ad15c034969074857a0bad080be86f962e1c"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "576f46b8bc30e8fb56939f230042efb103f2a8df"
+git-tree-sha1 = "80ab7f4a21ece05a8edb2da6f64bb2db66bb672c"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "dca96976c9c42b4777d03606f345b1ee70648d7c1e93068cb8e8c0559902237e"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "a3109dc26d54998ad9049d190fd6f803b2ee8824624bdabafbba4758d222e394"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6421bfda69a9ef802721a9501be0960f88ef785b"
+git-tree-sha1 = "a5530ce30420ad7d8d0504e900f7a493979a6444"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "106aa85966c1bf288776264c9bc5f8d32c76d1dad8133f77effcc03653da7d09"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "f50bd4ea42e882427af2ab716eaefb599799e74f15063278f03e9e1eea6e56e4"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "20361e5530665c913535a8a8beefc468a978432a"
+git-tree-sha1 = "6c595e5aa591dbc4574632ac46dc70e659fa2b19"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "d5ee47eea394091a5765da99c874b8c320a081ad130f8cc50b336c85275795d3"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "f385a3ae25775d5dedfe28accdf60c7f0f739b0926ab8f52035e4eb56864039e"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49e408736a95cb44cae999817e19eb36a221705c"
+git-tree-sha1 = "5a7a68a624fddc88c29276bff31ce716d5553429"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "fad82ec74bdfc97246e9288eba803103bd62b6b35646b0f700048a7926876a08"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "d9952d5765b1c157cfe5d1bb05b2684c2a092fffdb5085d084f09a6a76a9a9c6"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ce99a239151384b794f588ad2fc7fc0b51936735"
+git-tree-sha1 = "f6277f7ad3d1c40aee0c959555160b0c96711e9b"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "0e7abd4878bfa904b0eb6a4e6792a0dd21a5e487457d5414d0fc2e26e4e2558c"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "2b7e9dc3e08090112cef16dadc342e169d33710306cd3a2b7ab3a00dba3bfb9a"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e4ebe14c1e584008bc80e13ae27cfc14ced1d516"
+git-tree-sha1 = "23b06ea76321f6bb7b92142a75bb3f6430130d8a"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "e3806641373b958c085cfd9c30e992ddff54fcb09a3eb977836e6f3e9ef5dc62"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "4a1a19fc2639d5e5cf202ff36fdcaef175cab130fcca89aecafe30f516a75a56"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0d87ee370a117776f637e2f84520bf147b384fcb"
+git-tree-sha1 = "b14164381e91a2ba08a9d72050868421dc459227"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "97a4afa9557fa45c408a5f721dbc7389ab68e9720a18a2fbec3f368f48b260e4"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "2392799b7f98a4b77879935a69b7b87c10dbd34b9a0aba4c1e6993b542a48223"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d44adb2232b6cf54fa77faf02f13a0577c6d175b"
+git-tree-sha1 = "a6e3e5657775768aec3192d28cd06ea4c1d43fc8"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "8275fa21c15d9c36cec0d1e771d6a58aeb374b5ee3365353ee1c269b2db9fe6d"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "58419753cbabb3e766f4eded1bbcfb4512f7e6ae7fd301fad86fc6681606a98b"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5581d6ca3bfcff61c0bca146a6dd2fbc6fbee419"
+git-tree-sha1 = "8728a383cfd46846def38414067578566edeed94"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "1768407cc39b141131c5ff6802109ece8a3cd247cc7224c1119381f582641ff0"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "8dceff773e6ba7f63dd6058382be3cf8b0cbea742376c4ef3334065fad480f69"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "edddbf81c7dfbc2da89dfe1dca1034188e078dad"
+git-tree-sha1 = "451d1cb774407a33029297c65d7ca3ea3403f19e"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "3f5eb64eb0932c24c9b47d00b649ac9cae7f8be69a5fff988e0a3cfe664fcc52"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "2e15fecbdf7226b04933b2c9741c4199700b5e761de2ab481db7602bf8438263"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e1e31b1975142160b524859d0e368cc2be0e93cf"
+git-tree-sha1 = "399c17eb74518339bcc2617ff3f5472c3a49ddb2"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "4c9b3849799cacaa6243597aca163b61181f39c3e793fb87d63ec83984b710bc"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "0f5c3c7358025db29540c4f93e174bf7bfa4cbcfffec926402d4bd73f6a221e2"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0dee1134c5faa2e255ecb185f26a78054ce1fd46"
+git-tree-sha1 = "36d7c50e2b62945098632f33cd2d0be60b48be73"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "89b24486b3b2420234dce562c58b5f61f79f5f6bfeb1748bc82f29c805b2f06f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "130b65821ba56057324093830d113287308079b4dcba78427aad2a922331fd70"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "87449dd6cabb8dea91b981c445dfefc10c91b189"
+git-tree-sha1 = "5c5cf29acbab52e687562a13890a630ce69d5195"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "3242491112386f72ff6c16763546a6f7873d7d0af405e628681d897dd52b6175"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "47a9f92f2dbfdc8d7ae42932b1173ed722fc2994c20609ac43b9b3f2b21628f4"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb1adf1349e5693a3764536a263a5eceddd534fa"
+git-tree-sha1 = "37af764ad8d3d5f7d64f66b6150856022b956518"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "5b57501289fb350ee67d00e3f2fe384ddda387f0d026233f538bd3e579b01da8"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "53c8cb710b0b20e5265412ae0f66c5cda34483d0b08df8c16a4174a0e271237b"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bb957f2476d76b5a06b70d23ce8f1842e7997c8d"
+git-tree-sha1 = "99ffdeaa927deb07a55738a166546e02964efc07"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "d654418ec15a696be5ea9051a1254301f8a60bc03ad25ccb04e90d4f7278ca8e"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "0535a95c47d9740be2e95a0dcca990e412fa9736bdae5c2f4b137b7e709ba32b"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "47881ffe6bfed6b6a8a9de1b80314d4ba38d4df9"
+git-tree-sha1 = "e32b13424a0ab873879280825d39ca02ac665c77"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "ecc1f45db3e42564d21b8b38378eec231a97de1639b6b90ae5c7067b863b0331"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "1b05338aaa8930dc91cf33786549ce35c58acce02aa5551308e047ca6aa5b7e9"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "76ec8d49111557fb521fb668b7097937de30259d"
+git-tree-sha1 = "89dc9c0e3f3d601f6796f6e2457c3ff79804ace7"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "6972aa22beb36333e673901189ed72f0e99a6800f78f3c0f7c236df71cf9d2a5"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "06d93f02d3cadbc7a2bcf76701bf484090452e522dec66a544fcb5a894bd1b6f"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad39d2f983b6fa4d6d7f989cfffafa04a5a4e875"
+git-tree-sha1 = "07b977ed7cf87002633738abf2337f7111e8feea"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "8f79c4b94da7636a6123cc0dc3ff48f7fe30188c908dfd4e9e4ab3afe84f270f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "babb4d05ffb27b2b8bf5bceb948978da5b4b8ea3c47e8244d93c089ad2446c55"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba7664b2ca32bd52866f9cb21939c0ca8107df3d"
+git-tree-sha1 = "97109f5b866c83e2cdaab2dc8f659eb7734edbc7"
 julia_version = "1.10.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "d3a9e7708c58c77c466cb2ab0dbb10962e31cece60ab22eb905249c93097a0e0"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "2b975841345cfd6f08631f8224e89d9db2ab7c95425c06b9df1db91777cff92d"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bfcdaee8af41ca8d4fe0db2500d4d149ecd361a6"
+git-tree-sha1 = "d6c8695d22770aba048aa93c8e10a45f879cbba0"
 julia_version = "1.11.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "cc417628ebb33391ae8fd8759251042f71cf5a1afaa5294bc0de971649c67b62"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "3fac8c1e51e11cb8666551602585e86989a62ae6c876e620325db2ba662e7056"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b6577895be84485122fab1c45828a3d4bdd068e4"
+git-tree-sha1 = "3ed470a744c06b4a1eb990cf878c712930c8ba77"
 julia_version = "1.12.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "bd6299d63ccafcd7a87ae87b1dd181c1409f061ff5fd6ac418e9740853f97b64"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "69e9ee9cb7af7dde9cd0f748ae7c40b67f709a32245efee8e5ee359bf1ef651a"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "beeea89e3340a7d111be4b73b2af53f80d82855e"
+git-tree-sha1 = "218bac4ce4cafc952ea05e7b3a23459e53fca44a"
 julia_version = "1.6.3"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "37dcb3fbef04e0e8d64bbda805e9e59ae271e1f5583284c9a9ea876006051e21"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "c8e5355f77f7c9d9aea4f69e25232044d62bca82419e14b250b223ed2c5c3551"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d4e571d41d5c6583fd4f833080c41dd1578dc3d"
+git-tree-sha1 = "41bd436d742b33f4a9d5c2346cef248469da7022"
 julia_version = "1.7.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "630ffdf9c161e218111004cc612b5e85f467e37ad30663e57a3bb1b2772f1a81"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "f469c7fd1eb746abf2dc9267e4212e806929078ada8e21efc792310efc24ad92"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a4ea5e48b6c72126dffbae8725725e8d83b21a9a"
+git-tree-sha1 = "2a18b06da91865cd65b6f0e74ca6ac3723f47181"
 julia_version = "1.8.2"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "82a53be098c3d102473a6540c47edd7ea02d99517cda075f31423d9908b4a1b8"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "95610653f8c15275723a2f5bfe6c47c12d3eb752de1cdfdee1560b5f74f143ab"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "26b5d9b65fbbeea6584a0bf8ac5762963bcccdb0"
+git-tree-sha1 = "39acd7e41911f3168d512f419149aad2c2bae0aa"
 julia_version = "1.9.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "d71d5ef5b30fc9ff0824db7afbaf5d2337c6481fd58378e21055794dee0a0a30"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "c2b8b4d7a617df399b6d476d477ecba600ad28d259baeb97193bbf75704efac0"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d8104f8dc4f289a7e89302a4a99088737ca7a230"
+git-tree-sha1 = "66836ae32b3aedbcde5c76e166ea5705cefb59cc"
 julia_version = "1.10.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "a04512ab666bf38d65fb50e1f29f491faffb6288fee57729c2f436b674e92ed1"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "194af573ff1f841c69eb2540dfaf95c57fbc576edee58056991fa0424b2396de"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "52dccf649b9a2365dba876f25e9b9779c541936b"
+git-tree-sha1 = "ee10577d579d0e9301eb5f7b5e17583ef4e832d6"
 julia_version = "1.11.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "078dcaa456aa2bbe9de7ce4a31b74ec44af4d029cca31c858212de4ab5861de3"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "2b2d4894741a96c3175f62181583227a7090e0152df1404df916f80a984f86bc"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9d533131407fff2ed6d2fad0ba8d143431dfd9f1"
+git-tree-sha1 = "1edb5ee42f6c437a8e3b96f652976087041e4899"
 julia_version = "1.12.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "8085c499ddcfd9e64cb60278e125b9e40a1e1ddff6c15f8d7691e8dae0d31baf"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "365a2376b8a23cef049818b442c0ddcf11cecda26f5653dec53671b4ef4b45d3"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b599f6b95d09109379cf34774c816d7dfe66e86"
+git-tree-sha1 = "e680617920b128b004804a6f9f37a990831c9acd"
 julia_version = "1.6.3"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "d0b71e69b95f7d6921848122b91f66371cd149da09af450b76e955b1c46740c8"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "703119c6c6b996981e19cef1060d38d4da4c528cfb475a42331c77aae476617b"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2aa28d26640e0eea37ef6be5df587b6e018faa78"
+git-tree-sha1 = "8fd1c9abf15a907f491f55af3621710f2dc4fdfc"
 julia_version = "1.7.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "900aa348d6365ea67f928fafd503f7ec1baaf31e196fd1b866fb081bd3c568bc"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "53c1a4cdb2c9a850677974fa2a3e0ae1156edca2a74463b66abcbba9b5fbf7df"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0aafc371f4ef586e1bda7badab3f8ae60ed1a1f8"
+git-tree-sha1 = "64e38c361437fc645a99319eb16fa61604e644cd"
 julia_version = "1.8.2"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "5a28a2cb3c9ef924c9caae1d4b42fb5dac9f2eb98ed46e19a424fbbe8295197c"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "4191ad0c4835dba81cdc4402db03d4069fae8f6e57069eff87c06eaab4fd2dfa"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e514f105bda57ab583984fe6ff7c36187eeafb77"
+git-tree-sha1 = "1169941b4c9d1f3144bc9191881a12991036e629"
 julia_version = "1.9.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "448b5bf70eda562adfe08858a554f086556b28400eab1f50a85d809ee6e2e70c"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "80db8b49f0bf6fa264c807cc9bf9636f2d55b38ddc77ec354108105dce13530e"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "da62be13dabe35620eba6c05777c92193cf52d75"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[DACE.download]]
-    sha256 = "e17f0d50eb90d569d1ee1afb3f0577c8df045e8ffbc977788d710b1800f43674"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
-[[DACE]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4e4656c95780731e4ff00b536dc0d26437acb28e"
-julia_version = "1.11.0"
-libc = "glibc"
-os = "linux"
-
-    [[DACE.download]]
-    sha256 = "32e5246c350893008848186cd27e7c24308642bb26de6897a75639d268b631c4"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
-[[DACE]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c7b8857c9a8e6cc7c91f4bc7b27ec34648ab33f8"
-julia_version = "1.12.0"
-libc = "glibc"
-os = "linux"
-
-    [[DACE.download]]
-    sha256 = "98203cb5ab09a0b6df989725c0aac3c8b1085709eb8c81713fd837c76e13e9c1"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
-[[DACE]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ee94ae9f11b9d8175bde60b11cacb3e313e4b724"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[DACE.download]]
-    sha256 = "31026947b7a3f434b39904762600a2f6a73f3e4f30c2f431018c7aa63f4e832f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[DACE]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c0d9f9ad4535f8590ca161f199ed306e7e83541d"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[DACE.download]]
-    sha256 = "be6f86b3e88953d0737c52f0cfe525ccce142d1038e5d2a8096d1e3dc5651bab"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[DACE]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2f8a34ba7dd23758489d58a3a891dbdd3003e63d"
-julia_version = "1.8.2"
-libc = "glibc"
-os = "linux"
-
-    [[DACE.download]]
-    sha256 = "5fc28c7327ce9d07db4456f8d9fa5266f6ffca9b797458d64f2b7a0466ee13f2"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
-[[DACE]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fa743c7f3c33227b4ef3043066a9bdc0dba011b9"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[DACE.download]]
-    sha256 = "2ed0c1498dffd2b75c0b642d15d616c45318ad709a3873b9cf0c8d32f9c46148"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
-[[DACE]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b20bf9a4d18f608a8bd2224e75c4bad735e1762e"
+git-tree-sha1 = "0515cb1c5332b9f0da56da139f7de73e1df9d264"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "2641ca3275eb911dd760eace7cab45fcd4ef530df15d1ce88add83e3ed09319a"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "9ba108c9d5ec50f83c7c9337c46ea86419455e794c228a8b5dfaa95ea2104bc6"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7270d7ccdadd140e1895918fd37acc562e7b413"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5d09c6bde6b90b95c84c297e17cd880cce938728"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "d3e3bc9ee9936bc75befdfce34be14cecbaf5b7549d1f98e20ce9090bcd7c40c"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "da870cf9ef332a0a09bedd350805e3f28ea4343cf1fb3492a8f99c5c65c1f44c"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d10e4f64cb3e0318dba43bbe5686bb1ccf8284a"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "35602dd896fb94e5e23515c124f4513a499a8610"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "be89a570fad8586d44f9f182d79faead5c29f0971eef1004c4ee463ee5c3c346"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "1120018093a2570fb84aaa83f7bb8854f35395235cd1b8f6cec558557ae23c11"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a2f78fd1655e4b9ac400a3efbd321f9f1d7611ba"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "809037329f969a119046a4d3cd0e92f1008c3cab"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "27766750799ef40458eb561699da94805626c860416275a35f1f003f6ea329df"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "35742edbaf04bb7b866cca7ea49508fd5fac3a7a8c584369f76db66896e0a7c0"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bca028f476d8d185a6147896fdf62cbfb16d2c82"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "93c5868f5ab0826d65f451852bd6e6b92c3a1c77"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "b8162c75a3dd9f1822a5cbf9456c314c130a10b1cf9c86ef18f5ef42fab51603"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "a343649f3e9dddd3143fbac04f6f10ad3955e6775c91904c7e9b5551ff634b53"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6b68053101b20b09824b550f4a6e39dfa154fec"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "894483750f539fa9023701faf5500fc888461a19"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "30554795452bd73f9e381d91c3210cf258afc926aa860143265a9aed8da53a3b"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "ca8d8dde9d831d26894671c3e1b32bba8ad45b589e9c056802b5aac38109b65e"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "71ff22665d1cbd906656603a6468ead07e38ae90"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "130148c6be2edba67a65ce261fba36e407aba3ad"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "da6a477559dfd3f8e5d82dc9984384fd4784517f0604e8dfd586e6439cd1f697"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "96c752ac56601194f1b335f2211761f33914791b239168b0d26f041cc18e3245"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "745a8a4d3443aa5cdeb86b631bf619aaae14805d"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "2204b5ab374c65c0c6241af21c03725eb75b2057dcea266d430501ffbaef118a"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d01069b13776345f5d35b9825a47e2a2fddad87"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "0ef5bae932572745b0d3e2ae46a6bc5a50c9f095a3bc11b8a316a89cf7500383"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8deb27bbc2d4b18bd1928fbf738fd701afab4dd5"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "1747c54e4d80c7f84b84403176c78ac6242d27797f6dab5a9f7719413621fa12"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "841b4e067441e015f95c73dc57461cd259f1e532"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "4fe7496ae0904ff1d1391743fe8cc7fe903e89e39859aa847e2e097c8c4665ba"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb0d9d60f8a9301e4c3ca9d689a3ecd0e46593d3"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "d03678389155e9602ee1329ed283db288761142b7c52382e99dc7d5bd0d1c7bf"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a01b95a1d9612f8c0458f9d49613febbe417c122"
+julia_version = "1.8.2"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "68dbd52d258fd4edfbcf88989028ea53b5d20fde992cba8a9278ac84a2a523ba"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+[[DACE]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5e7dcbc0a6d46b630d5c723aa0f3c3c2e6eb76a4"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[DACE.download]]
+    sha256 = "0362d13f917a007097e576137dd37d45f84134dfdcf260b0bcdceb9346254e72"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "c34318de748fbfe53345809726557a8e93d6ccaa"
+git-tree-sha1 = "be58581800e560c6102d5e27d74c77e7ab5a320a"
 julia_version = "1.10.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "94d3749b8f2f4bf81b612c9f42d31b0ddf7b5ad2bc4a44303cdf60fbc76c2804"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "c8ebafc5d58797786d5e951fb4349f97a83682ff869a871fb72b1b8cb3f52ebb"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "65b43a09dd58bccb028d007a1c10fdde5127d3e4"
+git-tree-sha1 = "e1d949ceb14bfb13f23be5724341be0f7ed9d476"
 julia_version = "1.11.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "61f9001972db4f05b73a57650fbb47ff062de21f84377124b4b6506b70bd4fbb"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "27101a2ef2fd3064759fdfc1afab75320dbaca2c43cd58136798b30df4e199cd"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "e0c8a36519e08068c35bc34c6094bac755bf2db2"
+git-tree-sha1 = "252fdbf68cd96804d1d5402b994782187eb31a7f"
 julia_version = "1.12.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "d4ed010bfee356484f7f785143afaa8698c8aa48ffa1f719f903c81178d07ed6"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "adfb114c750463c980567e59ca0a2e40b37b4f8ac2902f7a795e9cee76f1c75c"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "18a666be5c52ebb3f809bfac15595a65740fe72f"
+git-tree-sha1 = "33aa152eb383eacdcb4801006f1c3ba48f7517b7"
 julia_version = "1.6.3"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "2fe1ab34a80ba1976bb8be27a5563fbce6dc8dc0d8e02d13901bbffbd0439f92"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "24b0abe2c8c37124125946c8ecc8c1b28fb47d76bdf306b2b3c61607c50113a0"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "8548547934ba3af32da9182b4de3b77e8e1d007f"
+git-tree-sha1 = "0bbe7f5a877676158ef1826a8f07be92e1ecdf10"
 julia_version = "1.7.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "06a037341f9ce5b2cd04bbd1f63983596885fbb0ceb544d105abda3286946e73"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "3ca1e36e89793f603e0390165ff7112eac6ff7426fdc4dcd723433992137d604"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "5ccd4a664b8c4efa3c48e23608f474518604f853"
+git-tree-sha1 = "2b2f3467bd18ab02cfc1c513ae4e4c9f2d89cc5c"
 julia_version = "1.8.2"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "1f6175d8b28a0a0bf91ddb0008d8ba6f5fd5a731723b7b2d0b4915891641e97f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "eb4bd70a39b704096d47f0f2a5f76e4a5fa02021d06ae2a845017a424d12e6f1"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "21f0e5ce8ca283a50e1b52a51d223d3179174b09"
+git-tree-sha1 = "82df5e8f73be0abac5ea66a94ea371be84817916"
 julia_version = "1.9.0"
 os = "macos"
 
     [[DACE.download]]
-    sha256 = "8922148974d6b1b729c1fed1fe1321627065de54af0cd6330a4da537644b068d"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "ef4f16c3f9f8294bcf6fd8984f5eebbb3ff82af24dc9d7b03b1366abd86da5b7"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "be0bdda420bcf6284e38dfd52b5fe7a3a1fb5e1c"
+git-tree-sha1 = "cfce4f67d376ecfea6f4ccca95276935ce052f1c"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "7224b2d75e9e638131adb2be3c22c0b02afef67f589c160882e064b5fde3629d"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "0c03b61f7afeb32638a786159f99c120db09580640405350ee6d6d91be029ce2"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "413bb413e91972f498bf7291415041dc9a822701"
+git-tree-sha1 = "93ba32921e349fc42a97f07cb4127b281ea9dccf"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "49b3ee4c509dea7d6988e5c953c146b3f47f0ccee4531229c2fc3e1c959e3a7d"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "8f5e005939695cac70642cb0ecdb7bc90c63780a4784aab9bb2a83dd24b0b8f0"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2b4dacbf6f2e797fcea149e578651659f69ad319"
+git-tree-sha1 = "4f8c61a74dc3d0687878540d4d1ecfa2bc67a960"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "7e27ca212cbd207e854290cb7369bf19aca5701e65a0ee821cf3879b8a6b1345"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "689d7cedb486b81ac8ab4cdba15ecf076552e18d18133c5d7efb6fea6021f799"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "645e1eb9b0461ec623c103af2e40dd905bc96daa"
+git-tree-sha1 = "bbeacf49bd9888088d4e781e422f4ae59f4711f5"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "ebb6cecb5b39796502fd1aa132fb0725fb890043c415e28e537e8ecb098ffbd6"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "68b8d909c3a42ed58d7d3f3ba468ada1f02a738e1c45d30d4cd6fb95c8237228"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "59961be96232583a0a229d6071cec183da41219d"
+git-tree-sha1 = "a55f43c16b84f2f0b8b344c5134fba6f7c7a118b"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "5a51a757f4d4e9507272312691bbafba16cb42da15848d33808093a774dc1f00"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "17f321fd9e862441b228d5f69a8ea35ce1fa1429b61a55b9b9ab17c0af3bdb0f"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d5b238cedd23b071177e30dc2091d74adad56ec2"
+git-tree-sha1 = "2c3b386be7d6b1ebfdee2f265548a4430878e0e4"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "7546c06546650bd97ed9c601bb16f539fa9972ac6d6fe9c97c7e28b6f0422bb7"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "1bd9539982fe0cb06c0ffa212541fe5c38344fd1129cacbfae822be225bd0b47"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7339254788415397007833cc0493594e369ed034"
+git-tree-sha1 = "ea863cd14e55b8448029ade91f01f16959e106af"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "44ba71fac6c1fcb66ac67a679fa07391d98c6545bf612b05ad47aac0934d2fa1"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "e93d01ce330ab527c5852217736e6d791ec11b283af0730dbfaabb1f2f7527e2"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1245e94a7b333f20f0c71ce313185808ecee673"
+git-tree-sha1 = "a3a2293f40e83945461854d522ac000216671a2e"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "c009dae0d374b5c00e07a84f526641d0ee81f38841e4aa51eefb64044a275041"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "788b9ed02267ce6b3e494d53a277f09fe202cb5114fe38eab71ce91e555d5c96"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2eefecbed97d899a9ce46e742b99a1da07159862"
+git-tree-sha1 = "af2a7ee89ddc6723ec273c8792fc59bedc07b56c"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "e2bf604aaa5b17709e8e24982319b414afe0ec6a59c49d401109206d6cd09acb"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "c5df65d0412f7b25e8e5200d08b8a2e7dc5e2ef0162aa4733c9751dc225a65ef"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2cbf1e0b90e5cfc56b72dc5f13d096587d2dcb74"
+git-tree-sha1 = "61291cff4be7b3bf1ebbcd3108ab34b98276c5f7"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "6a6c7690e9d39538e04a295bdd53ca14bacfa64e07ba066c5b7987d65a0f0392"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e51aa75ee2beaf29a813e2fc5f996402760eb7262e3b0942072c80463a248007"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "699508c5f074ed5fa85f5ab7dd8f71cd291b88a3"
+git-tree-sha1 = "f7a3180f1a5eba61653163fcfdc0e82095cce008"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "e7f53058b34812f48156d845db7bc8f0b192472a96da5c52c64148b852fa3855"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "9264fac73e5f0e702fe8cdc4bd68f239ac3d8f1cdc4255b0832f41745b86353f"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee2f068bbbb6e8c1980c522fe041228011489a7b"
+git-tree-sha1 = "1d31b13b983b5e848916710e45ed0685567576f7"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "de7a3f7fcab285d08a621c55a5d5f745374bfc3683327530eb2fcc1c00859877"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b69986ddd5a7538019f8cd65cea95d8d5bdcf1a9cc241111a87f0bc887ba2f0f"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c8b7c3c58dae61028a824fc5abb8083e7d27291"
+git-tree-sha1 = "292710f93fb635f6af8457a47aace0cdbc43d466"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "18cc6ea0cfc64438d4e41f5ebd6d8587c1570390c2021cc478b445f93b5efda5"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "6b6a6dcec9ad2c51cc0073e19d979e4bbe7beda900931654c663a6e58babeaa0"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "47c764f2c1797d3fa6f857de3512ce5be23fb21d"
+git-tree-sha1 = "2fde1c5e61b5811f373e3a72bbab92382a78d9f6"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "25277c15383927116f2bf44655830199d3533b9522cd536e9c4eb1973a50b569"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "9649a816247feb250d9edc6a62838e650cda19b4fb5385ea98ca343691c55888"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9c23a1b39fca1c939dd018990a089a3f40112c29"
+git-tree-sha1 = "921b23679d941552d691137131d3ecc846a343c8"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "7e5d8d79eba2f3e47cfe56131fb9bf3bce491d13428c88549b03378f7911814f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "05cfb3e9b00cb2cbad8d369bba38b16d1c67d47484ecba47ee5f200803226938"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "112ab98b5e56984a3044df4a9001afb9081e33f4"
+git-tree-sha1 = "664f26cefee12e52bc1592d1f56061888678dda4"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "4612329ffc90f043abd415fcd245ed1267b75c3072ceebc6900f792911463058"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "943111578fbd25920072c8f6e215bb52ef7a21d9dbde625143d55a244f2a644e"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d278610aec6fb56cf43b245ae58d4e34bb86cec4"
+git-tree-sha1 = "0af813b829081d925678200639c732072be6736a"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "850f586f824e4bc9e23c98bd49395e6f35b2f0f778de3a47a0b2f0118d8ce30a"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "41248ae1737b0b5974c512f223ec6393cbfc085f77aa0228578f20ab2579904a"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9470e171a22d132acf18c2a89638a38533c5d96d"
+git-tree-sha1 = "deea0ef047bf8b64df42f962054579ec5eb50dc1"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "c8034551e5280337df61637309cc0580171e99f5d87098205b0d2fc1eeba1430"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "49ade008e8feb109b34f070f169ae0c4cda59594e8ffa124bbc31031288bc3cc"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4cc3246727dd0b780614f3c4051668162d0a19b8"
+git-tree-sha1 = "bb66fee36c02d8c0a0d7668621b46609822a11b3"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "b26a3d2b719055f1d666c97b9c44a316ed54ec021d94f99a160351010350a03d"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "bfa4a65f6704a5ef476c5f1fa5068c1172123a3643993990d3fcb97a445b0192"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4b3827c844dcace043458eed8769db38ca6bf7c5"
+git-tree-sha1 = "91f6bda14628dcbfaf6db0b4b03bbccda7e95287"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "27b5448b30eeabfe004e30c6352a38e1ff1e8abf77bf03a4684a148c4aab7233"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "10834221e1df2d927e8728f69b928321688def4e6fc05fc60ab308827fe9d8f4"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8fa5dc7fc61eb752e09a323c419c77b157c98799"
+git-tree-sha1 = "ef32a659ad0329c1b2eaf98192517925f23602ad"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "fcfda8b994bc6416c61bc971d9ac4c64bd9fc8001bfcaf3315bac9be3c275b3a"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "2370649fb1b5578ed28a8c735536569cf8c456b0ebc8f28d41bc9cfff07bebe5"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d33b895fc47c1f8445d17f8f7383572f376863d1"
+git-tree-sha1 = "c503401aaad3c08ae1ff02aa9aba96a6d53664fc"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "70c3bff4bf97898a906b14bd7bbc1d7160fd11cc7e3c4b1b80fa59bab612d9cd"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "bf352ba29ae6e648bb24fc1cc6ea693630a6057ec5b73b6d2f838b4ec1061d6d"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "551c49046bb5840f4dc56158f1d1950ccff84cd9"
+git-tree-sha1 = "55a659d7782a59530a15b59ca863f02049705397"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "66b865e21df61d418f710675247461eb3e85e5bd415b1246462c2e4a1f76f4d1"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "187be92d7f472b2338155bdc67620c8ad3ad0515790516ef009186f1479920b2"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8ff1d393137bf18891770e9ac9bd43244eb3c88b"
+git-tree-sha1 = "3f2ad79cdba721c2dd05aa4314575eeddab3d3c7"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "1602dfa74e3bc54fb59972f37f927c16f66f4d1292e7fa02b2011d416a47e153"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "2faee0608d2e682b40b790b6c7fca0ef3db7725923f50b2420c19bb2508a0057"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0075d6f2c8afdad045a93384377dc8cf40003e90"
+git-tree-sha1 = "df81e12e3e2249313f2159e1ea579d96b096a358"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "577e55d46717881c882ec409897e3b8eedd75a7aa5bfce72c97263572abf57b8"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "e2d323d5e0f7e43a0cb201332e972a81d6276f29447db2be3af4a9cbe7035125"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b01f660273063d3060f563c0ba152a565b8c4ede"
+git-tree-sha1 = "1af7316ede4b4bf8805b5d557f8b2a29d634ef41"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "86f87a4441b15403ae159fc59b1018876ffd211b865dc54b24e065c7970137aa"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "74bba7bc85e9af035c6f6eaa4e1f755c21e04fe449e7450cb8256acbbaa13381"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a90aa967ba6e292c8258268af21126f09490a586"
+git-tree-sha1 = "edcdf2ba6d9729811b8296964ae01924370d2de0"
 julia_version = "1.8.2"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "8874cffeed9d0aad13cb9e52637d64a92514e399dfd48c95ff541880a648691a"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "665bf26b66b2a9a8dbbde2119242798c4eadc9a0c19d4cbb0305b3493d50ec6d"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1b22afc647970f9bdbb5217345fb6e0c195b274"
+git-tree-sha1 = "7386d1ba87bd33feefea9175746fe34d69c14959"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[DACE.download]]
-    sha256 = "c155cd0abd11e7c1c80efe7e8e1037805876d374ff8f51de975db5af2560ba43"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "b28b52c4c9c24302d2c9917b8a61a9438ab9c1af38ea39901f51aeed6defe637"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "a85a7f0e1725d9e330ebe29535db8f56b51ebc39"
+git-tree-sha1 = "96bff945d610ab931d1591258922d10bc84e5668"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[DACE.download]]
-    sha256 = "db1f01c6b5f0de4e397fd3098c4459fc7a652a3dbc5041442d741b362cb52a5f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "90e6c7f92a7459455a79569abb372c6091bd65867067bd34e64ef5178cb5f1cb"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "2fa1c5adf2b30c517f3d86698ae9461f7219bcd7"
+git-tree-sha1 = "d356cd93f0591c2c734c1b34b41828b03635bed1"
 julia_version = "1.11.0"
 os = "freebsd"
 
     [[DACE.download]]
-    sha256 = "4604492ed5276c78d40f19fa499c968e466aa6cbff7a29d73abd38791c77456d"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+    sha256 = "f5891be69caf731ffcf9ed84fbb6eff99f95681b08ce2177d62bd16acc3c6517"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "e10ffc512a778288c23d71fb0a49a26be8920d6a"
+git-tree-sha1 = "53a79d227c6b6ad40e2262024bbc1e2cdf86a984"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[DACE.download]]
-    sha256 = "6ef6d4dbea067779c1eb45cb5f4ce9d00edcbd980527d19a2b55bfe8a379e0c8"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "474984edba5f6e4b3e096d91afefcad3944490240ddaff34db1784596061dd6c"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "609b0941f14797e766d7d9b4878d398043d36a06"
+git-tree-sha1 = "465e7ad6d6a737d1f56bc95750d9251a030f850a"
 julia_version = "1.6.3"
 os = "freebsd"
 
     [[DACE.download]]
-    sha256 = "4fe06b69c2f7c000b16f12537516ec66cdf73f38b4a5e4d1379ea0917f24abb0"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "0934dd2ca1e0523b7da5ea2ceaddaf7f41a28e95df59e8c29344056556ba5371"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "4628bcdcfa2ce3ac66d30ded390382726a8c7340"
+git-tree-sha1 = "0fe25d8b5208fb14cbd9dbc7c421da9afe254a92"
 julia_version = "1.7.0"
 os = "freebsd"
 
     [[DACE.download]]
-    sha256 = "5df8d412d4b795651df12b4b1d66f35eb28e32b194cab0f2c4464b5c0fc7bf75"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    sha256 = "6a50d7a5033911737850fca2a61a86148e063d3e0c492aaa5515b20ad14495a1"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "381c187245705683269d95516bd85e6178110ca6"
+git-tree-sha1 = "41adf847ec2a552347c96959e4e8d5a5110f2213"
 julia_version = "1.8.2"
 os = "freebsd"
 
     [[DACE.download]]
-    sha256 = "31e22b720eb203eeb29b303da82742b99a7b2f7e972a8555b40b0a8368443b1a"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
+    sha256 = "8d89c5be8d53348aebe5a8b769a2ef994a67bccffe8818d41865407072b41112"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-unknown-freebsd-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "x86_64"
-git-tree-sha1 = "fcc6226fcb106d0a7c58cc10bc3fb5dc42ef8e4b"
+git-tree-sha1 = "3dfa794bfd85e2015429aec843e5ee6f9d4b41b0"
 julia_version = "1.9.0"
 os = "freebsd"
 
     [[DACE.download]]
-    sha256 = "67925b961f0b6401169bce78e3332b51bd23a79532e475c8c66798a5eb36a4f7"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "d3348b3b33dd578f0186f10bce59bd0483e154bef41aba1a562a9f4202589c11"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b7b4a8f7142a0e3ea3a3e6e6568b80fd8e2e61e8"
+git-tree-sha1 = "017b85416f35b8added1187d089f168569cbebae"
 julia_version = "1.10.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "e7ac2da02b25ebd1a1af191218b6a50d55d93ec8ade2fd3fc565186a4509e794"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "0c5c3b940429acba098f95b4c09845d4e3e68a765d190f6bc357bf8ea87fe685"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81cbfc2eb95b267115444cbee05453510329659e"
+git-tree-sha1 = "d96683ffabd07448cbbe90c9a5e4a59e7e579bcf"
 julia_version = "1.11.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "40e0960be04a2e410b4e24fd328140a29e485d809171b8d0052c91ec73bf1c41"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
+    sha256 = "ed3ba320dd6df6447fa17aca47cbb2c9ee6e030c2ba11a0a5dbb4ded73fb519a"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "08e16d727a96a2baa8f40c59d2fd20012cb6d0ab"
+git-tree-sha1 = "34b809172c4161dbd0083fc9330bd69c60b19e29"
 julia_version = "1.12.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "d6951a08b316069437fe2d3b7390a7028a43b30c9efbf1ae4bed0a2357917abf"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "9e0d0d72e272a81e028325dc8659b99c56f7876bed8515b39110cdda3da5b0e1"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "886ea64667e027871aa7e4e67eca2b954452b1a6"
+git-tree-sha1 = "ae993b5f5e1993e0ba7e92262637f74aa0a94768"
 julia_version = "1.6.3"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "d04f966aa7b1533c3f29395763337b1b593e255652ac9deb067df1c967822b19"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "659fb5144def9afcf28ebb8794f3e6baa454a3963f5517b25dd0d20e9adfd0e6"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2e39c48919db2110a912185e3f0b4e2e9a8b2dee"
+git-tree-sha1 = "22d87c7d01591cc0f19fb2db178fa57cb7050ae2"
 julia_version = "1.7.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "c35ca47e45e5640d6ab6e45c5032b81f7a754eb9490ed959287e0ac90668b476"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "376310cf87dec96499cb03a9aa322a408766045d65bf041d3719dadb2e089b20"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e83533d4a1638b87bc5a64b94d3a0c3c405d7847"
+git-tree-sha1 = "cc48d848ba50ead1bec82a4d08289ebadb0ee633"
 julia_version = "1.8.2"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "3f54c1f1fb21181651da8975f63b62f05ea784e6d37bcdf1ce9e1a07bcc3db55"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "19330da32b0724233ed303eec7a4896a7f900f277410c65d8bd1f595c9d0b622"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fa8b1c658ff9d5d2973a9f69bf73979e9e01c429"
+git-tree-sha1 = "6a19e52090dcbeccd91ee7d9ed7d8d8d5b27b979"
 julia_version = "1.9.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "84a1ec0d678370aa59067f1e40a8a394e0fac9e99a070cc8ea7482070a97ab1f"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "44344b19ba21da49fd6d937c6e50595f112aa9b49bb7c67baa69fa1629dec9cc"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d5d3d3643c322d86b4a5e7ca3e71211590953458"
+git-tree-sha1 = "652beeafb19b03246c308743bc9d82a18f88290f"
 julia_version = "1.10.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "668bb50693cc5cc51e58c3a40db755c923873cd4753359e1b73d17145ece73bf"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "a8b056e6eb442072c0437595614dacf3970336d3e7002bcab5de4478c6d7e0e5"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db9477ab8ec3848d73c68caf36716e4c219b25a6"
+git-tree-sha1 = "b1d81a07904f635caf110d6d0976e215c5d42c4c"
 julia_version = "1.11.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "a9daa979afbfeac1d4074b2ca6a00fec602498ee020fa464466e0d3fc6f71862"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
+    sha256 = "f0472fdf851f578aad7b8c26154b2027d27d71ee59b390f01e52827899545197"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb35ad9a3c02e6c5c85a2a445505557e9156b9cc"
+git-tree-sha1 = "da4f6768ca2eb3bc0aea42e6d203f51c2b29cf22"
 julia_version = "1.12.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "d21fb3c7c9feb86d404674be8f98b58bf4c62feb587bc4ea0304ea5f3422b3b5"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "c1f40f5b479772bf76ae84b1c2c187c7b27f32b8aa14fb6f0551d9c815d784d2"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d5c3f071281c3506270e25399e44e3835d1a9595"
+git-tree-sha1 = "29af92f1112977540cf739c80a7c10a6e019e91f"
 julia_version = "1.6.3"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "7118500b2cff7caee884e5a0cfc9d09cecdbbe03b54caceed2f820858c362020"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "76d7673225c6cee3aa0882c978a2e0e0e539a1eb459ce3dae137ce272b9ca9f2"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ce341c2f936c105be9f3987276088821f885faac"
+git-tree-sha1 = "8fca7cacabb99dd0634957a59cd64b8d78883e67"
 julia_version = "1.7.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "2db02e0ec2744ba2f65849cc1911b772488f19f00849851fb7f66313b4fb9986"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "bcd4373666b2d0f3ca9be77b545f3ccfdfef9fed4608086337cb61822471bb55"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "250a8647820e96a79f5fdce75c38be1f9345d1c4"
+git-tree-sha1 = "715675a86c2398caebc95689a5b8d1d4488394bf"
 julia_version = "1.8.2"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "b8e3a95c6dea964ed2b012c311227e220d8e46cdb81f4761ffd4f4af6103c844"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "68995a6e416c2bf7b1a7d821ae8975238618ab302ef0d3fc1064910cef03dfc8"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
 [[DACE]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "90c97e7d88879cf3c4fb4a145d203b2351d09178"
+git-tree-sha1 = "5d826d6fc3c9c9169bab33523ca42cc7dc65af82"
 julia_version = "1.9.0"
 os = "windows"
 
     [[DACE.download]]
-    sha256 = "40025b19d7515f9e90cf15cb29b4cb22ead2c89e73bc486bef6003885afe4a41"
-    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.3.0+0/DACE.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "fde34d5f9c198be89ee61420c183069e656455bc6bc534b91f479c17783eb6be"
+    url = "https://github.com/JuliaBinaryWrappers/DACE_jll.jl/releases/download/DACE-v0.4.0+0/DACE.v0.4.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
