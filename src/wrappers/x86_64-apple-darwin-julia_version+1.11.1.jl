@@ -8,7 +8,7 @@ function __init__()
     JLLWrappers.@generate_init_header(libcxxwrap_julia_jll)
     JLLWrappers.@init_library_product(
         libdace,
-        "lib/libdace.2.0.1.dylib",
+        "lib/libdace.2.1.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
